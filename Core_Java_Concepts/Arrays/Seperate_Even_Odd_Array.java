@@ -4,7 +4,7 @@ public class Seperate_Even_Odd_Array {
     public static void main(String[] args){
      //Declare the Scanner Class Object
      Scanner sc = new Scanner(System.in);
-     System.out.println("Enter the size of the Arrya");
+     System.out.println("Enter the size of the Array");
      //Enter the Size of the Array
      int N = sc.nextInt();
 
