@@ -1,4 +1,4 @@
-public class Print_Array {
+public class A_Print_Array {
     public static void main(String[] args) {
         // Declare and initialize the array
         int[] numbers = {12, 14, 16, 18, 20};

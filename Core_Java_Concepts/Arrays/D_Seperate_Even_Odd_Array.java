@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Seperate_Even_Odd_Array {
+public class D_Seperate_Even_Odd_Array {
     public static void main(String[] args){
      //Declare the Scanner Class Object
      Scanner sc = new Scanner(System.in);
@@ -21,7 +21,7 @@ public class Seperate_Even_Odd_Array {
             System.out.print(arr[i] + " ");
         }
 
-     //Implement Logic to filter Out Even/Odd
+     //Implement Logic to filter Out Even
      System.out.println(" ");
      System.out.println("\nEven Numbers:");
     for (int i = 0; i < N; i++) {
@@ -29,7 +29,7 @@ public class Seperate_Even_Odd_Array {
         System.out.print(arr[i] + " ");
     }
 }
-
+//Implement Logic to filter Out Even
     System.out.println("\n\nOdd Numbers:");
     for (int i = 0; i < N; i++) {
     if (arr[i] % 2 != 0) {

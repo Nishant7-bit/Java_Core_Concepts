@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Scan_and_print_Elements {
+public class B_Scan_and_print_Elements {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in); //Initialization of Scanner Class Objects
         System.out.println("Enter the size of the array");

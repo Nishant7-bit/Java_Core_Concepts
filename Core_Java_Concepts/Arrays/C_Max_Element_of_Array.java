@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Max_Element_of_Array{
+public class C_Max_Element_of_Array{
     public static void main(String[]args){
         //Declare the Scanner Class Object
      Scanner sc = new Scanner(System.in);
