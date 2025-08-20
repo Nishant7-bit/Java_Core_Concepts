@@ -35,6 +35,7 @@ public class E_sum_to_addjacent_digit {
             new_arr[i] = arr[i] + arr[i + 1];
 
             System.out.print(new_arr[i]+ " ");
+            sc.close();
 
         }
 
